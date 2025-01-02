@@ -18,21 +18,15 @@ LocalDateTime: For tracking creation and update times.
 How to Use
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/0xZKsnarker/CRUD-CLI-Task-Tracker-.git
 cd CRUD-CLI-Task-Tracker-
 Compile the project:
 
-bash
-Copy code
+
 javac Main.java
 Run the application:
 
-bash
-Copy code
 java Main
 Follow the on-screen prompts to manage your tasks. Type exit to quit the application.
 
-Project URL
-CLI Task Tracker GitHub Repository
