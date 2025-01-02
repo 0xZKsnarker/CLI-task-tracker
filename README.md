@@ -13,4 +13,3 @@ View all tasks.
 Filter tasks by status: TODO, IN_PROGRESS, or DONE.
 Timestamps: Tracks when tasks are created and updated.
 User-Friendly Interaction: Clear prompts and feedback for all actions.
-How to Use
