@@ -33,3 +33,16 @@ Follow the on-screen prompts to manage your tasks. Type exit to quit the applica
 Project URL:
 https://roadmap.sh/projects/task-tracker
 
+
+## Todo REST API
+
+A simple Spring Boot application providing CRUD operations for todo items using MySQL and Hibernate.
+
+### Building and Running
+
+```
+cd todo-api
+mvn spring-boot:run
+```
+
+The API will start on `http://localhost:8080` with endpoints under `/api/todos`.
